@@ -8,3 +8,4 @@ So a friend of mine was designing an automated controller to use in a startup, i
 Link to prototype: <a href="https://123d.circuits.io/circuits/2335416-button-controlled-actuator">prototype</a>
 
 <h2>The Prototype Circuit</h2>
+![image alt text](images/arduinoCircuit.png)
