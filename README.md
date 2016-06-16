@@ -1,6 +1,9 @@
 # ActuatorCircuit
 This repository is for an actuator circuit design that can be used in opening and closing valves, controlling a light show, fireworks, sprinklers, using a controlled sequences of on and off controls. 
 
+Here's an article on Medium about it with a video demo in the end: 
+<a href="https://medium.com/@abhishekpratapa/button-controlled-actuator-part-1-5f45a0f7679a#.ul5ys6adl">Medium Article</a>
+
 <h2>Ideation</h2>
 So a friend of mine was designing an automated controller to use in a startup, it was to control a series of valves in a particular sequence. So I decided to prototype the device shown below in a lunch break.
 
